@@ -10,3 +10,5 @@ Purpose is to source the data from HRMS and analyze possible cases of employee a
 ![enter image description here](https://github.com/lsaibhaskar/hrattrition/blob/main/hr-analytics-10.jpg?raw=true)
 
 To checkout my notebook, please click [here](https://github.com/lsaibhaskar/hrattrition/blob/main/HR_Analytics.ipynb)
+
+Link to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) 
