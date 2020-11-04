@@ -12,3 +12,5 @@ Purpose is to source the data from HRMS and analyze possible cases of employee a
 To checkout my notebook, please click [here](https://github.com/lsaibhaskar/hrattrition/blob/main/HR_Analytics.ipynb)
 
 Link to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code) 
+
+Link to Suchit Projects click [here](https://github.com/suchit-insaid/Python-Machine-Learning-Projects)
